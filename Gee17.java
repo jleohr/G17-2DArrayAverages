@@ -1,6 +1,6 @@
 public class Gee17{
   public static void main(String[] args){
-    TwoDee twoDee = new TwoDee();
+    ArrayAverages twoDee = new ArrayAverages();
 
     twoDee.rowAverages();
     twoDee.columnAverages();
